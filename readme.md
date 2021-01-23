@@ -36,4 +36,14 @@
     - This allows you to interact with the live-server via command line
     - Just type "node" into terminal and you will be inside the REPL. This works basically the same way as the Chrome Console.
     - Type .exit to quit the REPL
-# nodeJS-Introduction
+
+5. What to do? [LinkToNodeJS](https://nodejs.org/api/)
+    - Example Node Configuration using Filesystem
+    - One of the APIs that Node Developers commonly use is filesystem.
+    - Create a const.   ``const fs = require('fs')``  // In the Documentation this is how we declare fs to = the filesystem module of node
+    
+
+## Node.js Challenge Modify a File 
+---
+
+1. Using the file1.txt as our text file, lets make a copy of our file.
