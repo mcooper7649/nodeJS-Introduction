@@ -1,0 +1,19 @@
+{
+  "name": "my-npm-challenge",
+  "version": "1.0.0",
+  "description": "first npm challenge using superheroes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "superheroes",
+    "npm",
+    "challenge"
+  ],
+  "author": "mcooper",
+  "license": "ISC",
+  "dependencies": {
+    "superheroes": "^3.0.0"
+  }
+}
