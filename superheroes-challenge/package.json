@@ -14,6 +14,7 @@
   "author": "mcooper",
   "license": "ISC",
   "dependencies": {
-    "superheroes": "^3.0.0"
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
   }
 }
